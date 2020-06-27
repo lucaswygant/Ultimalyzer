@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>Ultimalyzer</DisplayName>
+  <Description>Install Ultimalyzer</Description>
+  <Version>0.1.0-0</Version>
+  <ReleaseDate>2020-06-14</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="84716455" CompressedSize="20368025"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="Ultimalyzer License Agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>cab8441ed36d07c0c7e722dde7b07b55e6caa43d</SHA1>
+ </PackageUpdate>
+</Updates>
